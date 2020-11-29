@@ -13,17 +13,17 @@
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-## About the project
+## :round_pushpin: About the project
 
 
-## Technologies
+## :rocket: Technologies
 
 <h3 align="left">Languages ​​and tools:</h3>
  <br /><p align="left"> <a href="#" target="_blank"> <img src="https://github.com/cgalmeida/machine-learning/blob/main/Courses/tf.svg.png" alt="tensorflow"width="40" height="40"/></a><a href="#" target="_blank"> <img src="https://github.com/cgalmeida/machine-learning/blob/main/Courses/py.png" alt="python"width="40" height="40"/></a></p>
 
 </p>
 
-## Projects
+## :computer: Projects
 
 ## :mortar_board: Courses
 
