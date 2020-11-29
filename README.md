@@ -25,6 +25,9 @@
 
 ## :computer: Projects
 
+[DataCamp](https://projects.datacamp.com/) - **[Visualizing COVID-19 (With R)
+](https://github.com/cgalmeida/machine-learning/blob/main/Projects/DataCamp/visualizing_covid19.r)** 
+
 ## :mortar_board: Courses
 
 [Udemy](https://www.udemy.com/course/deep-learning-com-python-az-curso-completo/) - **[Deep Learning com Python de A a Z - O Curso Completo](https://github.com/cgalmeida/machine-learning/tree/main/Courses/DeepLearning-Python)** 
