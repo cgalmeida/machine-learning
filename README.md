@@ -18,9 +18,19 @@
 
 ## Technologies
 
+<h3 align="left">Languages ​​and tools:</h3>
+ <br /><p align="left"> <a href="#" target="_blank"> <img src="https://github.com/cgalmeida/machine-learning/blob/main/Courses/tf.svg.png" alt="tensorflow"width="40" height="40"/></a><a href="#" target="_blank"> <img src="https://github.com/cgalmeida/machine-learning/blob/main/Courses/py.png" alt="python"width="40" height="40"/></a></p>
+
+</p>
+
 ## Projects
 
-## Courses
+## :mortar_board: Courses
+
+[Udemy](https://www.udemy.com/course/deep-learning-com-python-az-curso-completo/) - **[Deep Learning com Python de A a Z - O Curso Completo](https://github.com/cgalmeida/machine-learning/tree/main/Courses/DeepLearning-Python)** 
+
+[Udemy](https://www.udemy.com/course/tensorflow-machine-learning-deep-learning-python/) - **[TensorFlow: Machine Learning e Deep Learning com Python](https://github.com/cgalmeida/machine-learning/tree/main/Courses/TensorFlow_DeepLearning_Python)** 
+
 
 
 ## Getting started
